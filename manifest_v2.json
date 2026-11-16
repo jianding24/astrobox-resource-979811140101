@@ -1,0 +1,107 @@
+{
+  "item": {
+    "id": "979811140101",
+    "restype": "watchface",
+    "name": "地貌手册",
+    "description": "纸张质感、复古字形与地貌风景插画，把火山、曲流、峡谷和冰川铺成腕间的一页图鉴。\n\n时间、日期和电量之外，两处数据组件可独立选择或隐藏，支持步数、心率、活动热量、站立次数、血氧和压力。\n\n长按表盘进入编辑，切换地貌主题，分别选择或隐藏两处数据组件；隐藏后保留空位，分隔线可单独开关。轻点数据，可打开对应系统应用。",
+    "preview": [
+      "media/detail-01-themes.jpg",
+      "media/detail-02-devices.jpg",
+      "media/detail-03-guide.jpg"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/astrobox-cover.jpg",
+    "author": [
+      {
+        "name": "A_WU",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-pro-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-pro-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-rw-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-rw-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-rw-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-band9-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-band-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-band-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-band11-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-band11-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
+      "versionCode": 65536
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/LandformAtlas-round480-1.0.0.face",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
