@@ -18,87 +18,189 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "地貌手册交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=KBiK%2BVDM58VTDj5%2BXlf0a1uFW%2FcQAsYIuOJeFwvf0nbpG8uE84Sw6pRM7XjVVKnY&busi_data=eyJncm91cENvZGUiOiI5MTM1OTUyNzYiLCJ0b2tlbiI6Inh1WEdrdHRmckpTZ1hSUFBsNEs3cnNkVTM1OHNIRWw3QkJJaDJOOUtLS0k5bVI0OE5PZHV2RnZBdFRxWmhtOGUiLCJ1aW4iOiI5MzU0MjA2ODQifQ%3D%3D&data=4hItjYDblOib750xdbPh7b7b5m7ymXQ-kRJ7YwDsTTe-W-gYUm-P6Blz_WJ5eG0Q8OsyshoMTWp6nOf5RUK7QA&svctype=4&tempid=h5_group_info",
+      "icon": "users-three"
+    }
+  ],
   "downloads": {
-    "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-pro-1.0.0.face",
-      "versionCode": 65536
-    },
-    "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-pro-1.0.0.face",
-      "versionCode": 65536
-    },
-    "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-rw-1.0.0.face",
-      "versionCode": 65536
-    },
-    "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-rw-1.0.0.face",
-      "versionCode": 65536
-    },
-    "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-rw-1.0.0.face",
-      "versionCode": 65536
-    },
-    "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-band9-1.0.0.face",
-      "versionCode": 65536
-    },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-band-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-band-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-band-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-band-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-band11-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-band11-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-band11-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-band11-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-band9-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-pro-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-pro-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     },
     "xmws3": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-round-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     },
     "xmws4": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-round-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-round-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     },
     "xmws441": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-round-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     },
     "xmws541": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-round-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-round-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     },
     "xmws5": {
-      "version": "1.0.0",
-      "file_name": "downloads/LandformAtlas-round480-1.0.0.face",
-      "versionCode": 65536
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-round480-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
+    },
+    "xmrw5": {
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-rw-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-rw-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.1",
+      "file_name": "downloads/LandformAtlas-rw-1.0.1.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "1.0.1 更新\n修复部分设备无法正常进入编辑或切换样式的问题。"
+        }
+      ]
     }
   },
   "ext": {
